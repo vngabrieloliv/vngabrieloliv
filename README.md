@@ -1,7 +1,7 @@
 Olá,
-Eu sou o Vinicius
+Eu sou o Vinicius.
 
-Um mero aprendiz buscando sair do zero absoluto.
+Aprendiz buscando sair do zero absoluto.
 ##
 <div align="center">
   <a href="https://github.com/Vicius-Oliveira">
